@@ -1,0 +1,76 @@
+20231126 22:55:48 INFO  [main] base.BaseTest BaseTest.java48 - ******Salesforce script Started***********
+20231126 22:57:25 INFO  [main] base.BaseTest BaseTest.java74 - firefox browser launched
+20231126 23:00:18 INFO  [main] base.BaseTest BaseTest.java48 - ******Salesforce script Started***********
+20231126 23:00:35 INFO  [main] base.BaseTest BaseTest.java79 - chrome browser launched
+20231126 23:04:43 INFO  [main] base.BaseTest BaseTest.java48 - ******Salesforce script Started***********
+20231126 23:14:40 INFO  [main] base.BaseTest BaseTest.java48 - ******Salesforce script Started***********
+20231126 23:14:45 INFO  [main] base.BaseTest BaseTest.java79 - chrome browser launched
+20231128 17:41:01 INFO  [main] base.BaseTest BaseTest.java48 - ******Salesforce script Started***********
+20231128 17:41:30 INFO  [main] base.BaseTest BaseTest.java79 - chrome browser launched
+20231128 17:41:32 INFO  [main] base.BaseTest BaseTest.java91 - https://login.salesforce.com/is entered
+20231128 17:41:32 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java25 - ******login_to_Salesforce automation script started***********
+20231128 17:41:35 INFO  [main] pages.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231128 17:41:36 INFO  [main] pages.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231128 17:41:36 INFO  [main] pages.BasePage BasePage.java59 - pass:password field  element cleared
+20231128 17:41:36 INFO  [main] pages.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231128 17:41:37 INFO  [main] pages.BasePage BasePage.java69 - pass:login button element clicked
+20231128 17:41:38 INFO  [main] pages.LoginPage LoginPage.java51 - text extracted from registartion page=Please enter your password.
+20231128 17:41:38 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java43 - ******login_to_salesforce failed***********
+20231128 17:41:38 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java44 - ******login_to_salesforce automation script ended***********
+20231128 17:41:39 INFO  [main] base.BaseTest BaseTest.java62 - ******Salesforce script ended***********
+20231128 17:42:06 INFO  [main] base.BaseTest BaseTest.java48 - ******Salesforce script Started***********
+20231128 17:42:11 INFO  [main] base.BaseTest BaseTest.java79 - chrome browser launched
+20231128 17:42:15 INFO  [main] base.BaseTest BaseTest.java91 - https://login.salesforce.com/is entered
+20231128 17:42:15 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java53 - ******login_to_Salesforce automation script started***********
+20231128 17:42:15 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java56 - url is entered
+20231128 17:42:16 INFO  [main] pages.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231128 17:42:16 INFO  [main] pages.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231128 17:42:16 INFO  [main] pages.BasePage BasePage.java59 - pass:password field  element cleared
+20231128 17:42:17 INFO  [main] pages.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231128 17:42:20 INFO  [main] pages.BasePage BasePage.java69 - pass:login button element clicked
+20231128 17:42:24 INFO  [main] pages.HomePage HomePage.java20 - text extracted from home page=Home
+20231128 17:42:24 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java74 - ******login_to_salesforce automation script ended***********
+20231128 17:42:25 INFO  [main] base.BaseTest BaseTest.java62 - ******Salesforce script ended***********
+20231128 17:47:26 INFO  [main] base.BaseTest BaseTest.java48 - ******Salesforce script Started***********
+20231128 17:47:31 INFO  [main] base.BaseTest BaseTest.java79 - chrome browser launched
+20231128 17:47:36 INFO  [main] base.BaseTest BaseTest.java91 - https://login.salesforce.com/is entered
+20231128 17:47:36 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java82 - ******login_to_Salesforce automation script started***********
+20231128 17:47:36 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java86 - url is entered
+20231128 17:47:37 INFO  [main] pages.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231128 17:47:37 INFO  [main] pages.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231128 17:47:37 INFO  [main] pages.BasePage BasePage.java59 - pass:password field  element cleared
+20231128 17:47:37 INFO  [main] pages.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231128 17:47:38 INFO  [main] pages.BasePage BasePage.java69 - pass:Remember Me Checkbox element clicked
+20231128 17:47:40 INFO  [main] pages.BasePage BasePage.java69 - pass:login button element clicked
+20231128 17:47:44 INFO  [main] pages.HomePage HomePage.java20 - text extracted from home page=Home
+20231128 17:47:47 INFO  [main] pages.BasePage BasePage.java69 - pass:Selecting Neha Chivate Tab element clicked
+20231128 17:47:47 INFO  [main] pages.BasePage BasePage.java69 - pass:Logout button element clicked
+20231128 17:47:49 INFO  [main] pages.LoginPage LoginPage.java65 - text extracted from registartion page=Username
+20231128 17:47:49 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java112 - ******login_to_salesforce automation script ended***********
+20231128 17:47:49 INFO  [main] base.BaseTest BaseTest.java62 - ******Salesforce script ended***********
+20231128 23:42:30 INFO  [main] base.BaseTest BaseTest.java48 - ******Salesforce script Started***********
+20231128 23:42:41 INFO  [main] base.BaseTest BaseTest.java79 - chrome browser launched
+20231128 23:42:47 INFO  [main] base.BaseTest BaseTest.java91 - https://login.salesforce.com/is entered
+20231128 23:42:47 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java25 - ******login_to_Salesforce automation script started***********
+20231128 23:42:47 INFO  [main] pages.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231128 23:42:47 INFO  [main] pages.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231128 23:42:48 INFO  [main] pages.BasePage BasePage.java59 - pass:password field  element cleared
+20231128 23:42:48 INFO  [main] pages.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231128 23:42:49 INFO  [main] pages.BasePage BasePage.java69 - pass:login button element clicked
+20231128 23:42:50 INFO  [main] pages.LoginPage LoginPage.java51 - text extracted from registartion page=Please enter your password.
+20231128 23:42:50 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java43 - ******login_to_salesforce failed***********
+20231128 23:42:50 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java44 - ******login_to_salesforce automation script ended***********
+20231128 23:42:50 INFO  [main] base.BaseTest BaseTest.java62 - ******Salesforce script ended***********
+20231128 23:43:14 INFO  [main] base.BaseTest BaseTest.java48 - ******Salesforce script Started***********
+20231128 23:43:19 INFO  [main] base.BaseTest BaseTest.java79 - chrome browser launched
+20231128 23:43:26 INFO  [main] base.BaseTest BaseTest.java91 - https://login.salesforce.com/is entered
+20231128 23:43:26 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java53 - ******login_to_Salesforce automation script started***********
+20231128 23:43:26 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java56 - url is entered
+20231128 23:43:26 INFO  [main] pages.BasePage BasePage.java59 - pass:Username textbox  element cleared
+20231128 23:43:26 INFO  [main] pages.BasePage BasePage.java49 - Pass:Username textbox is entered to the username filed
+20231128 23:43:28 INFO  [main] pages.BasePage BasePage.java59 - pass:password field  element cleared
+20231128 23:43:28 INFO  [main] pages.BasePage BasePage.java49 - Pass:password field is entered to the username filed
+20231128 23:43:31 INFO  [main] pages.BasePage BasePage.java69 - pass:login button element clicked
+20231128 23:43:41 INFO  [main] pages.HomePage HomePage.java20 - text extracted from home page=Home
+20231128 23:43:41 INFO  [main] scripts.SalesforceAutomationScript SalesforceAutomationScript.java74 - ******login_to_salesforce automation script ended***********
+20231128 23:43:41 INFO  [main] base.BaseTest BaseTest.java62 - ******Salesforce script ended***********
